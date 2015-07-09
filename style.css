@@ -136,6 +136,7 @@ li.share-menu {
   margin: 0 10px 0 0;
 }
 
+/*this will look for element that has BOTH of these classes*/
 .notification.active { 
   color: #ffd400;
   text-shadow: 0 0 10px #ffd400;
